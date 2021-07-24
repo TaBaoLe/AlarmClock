@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "2.PRM391x_AlarmClock_letbFX08130"

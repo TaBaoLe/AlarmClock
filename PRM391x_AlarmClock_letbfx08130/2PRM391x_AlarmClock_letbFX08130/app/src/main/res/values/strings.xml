@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">2.PRM391x_AlarmClock_letbFX08130</string>
+    <string name="add">Add</string>
+    <string name="time">00:00</string>
+    <string name="title">AlarmClock</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="submit">submit</string>
+    <string name="entertime">enter time</string>
+    <string name="input_title">intput alarm title</string>
+</resources>
